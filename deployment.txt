@@ -1,5 +1,6 @@
 supabase connection string
 postgresql://postgres:makebetter@sangrurestate@db.gufgfhtcsspzugribnop.supabase.co:5432/postgres
+postgresql://postgres.gufgfhtcsspzugribnop:makebetter@sangrurestate@aws-1-ap-southeast-1.pooler.supabase.com:6543/postgres
 
 S3 Bucket
 Endpoint: https://gufgfhtcsspzugribnop.storage.supabase.co/storage/v1/s3
