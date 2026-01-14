@@ -1,0 +1,9 @@
+supabase connection string
+postgresql://postgres:makebetter@sangrurestate@db.gufgfhtcsspzugribnop.supabase.co:5432/postgres
+
+S3 Bucket
+Endpoint: https://gufgfhtcsspzugribnop.storage.supabase.co/storage/v1/s3
+Region: ap-southeast-1
+
+Access Id: 5c31ab424b58143e206abaa26edd1f0a
+Secret Access Key: df493bf544eb81213022f995baedfc80384e50f4c60fb1ea5d35a0dcd8eda872
